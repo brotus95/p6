@@ -3,9 +3,9 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.4.
 
 ## Development server
-Frontend : npm install then run `ng serve` 
+Frontend : `npm install` then run `ng serve` 
 
-Backend : npm install then run `nodemon server`
+Backend : `npm install` then run `nodemon server`
 
 Don't forget to adapt your .env file 
 
